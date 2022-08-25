@@ -1,0 +1,5 @@
+{
+  "infiniteLoopProtection": false,
+  "emitDecoratorMetadata": true,
+  "experimentalDecorators": true
+}
